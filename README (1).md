@@ -1,6 +1,5 @@
 # PowerBI Decision Analytics Hub
 
-[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-yellow)](https://app.powerbi.com/groups/me/lineage?experience=power-bi)
 [![License](https://img.shields.io/badge/License-MIT-green)](https://github.com/virajbhutada/PowerBI-Dashboards/blob/main/LICENSE)
 
 Step into the dynamic world of data-driven decision-making at the PowerBI Analytics Hub. This repository serves as a centralized destination, housing a diverse collection of meticulously crafted PowerBI dashboards. Tailored for strategic decision-makers, our visualizations offer unique perspectives and insights across various datasets. Elevate your analytics journey with our comprehensive suite, delivering actionable insights and driving excellence throughout your organization.
@@ -16,24 +15,11 @@ Step into the dynamic world of data-driven decision-making at the PowerBI Analyt
 
 - **Continuous Expansion:** This repository is a dynamic project with plans for continuous expansion. Anticipate the addition of new dashboards exploring different facets of data analytics and visualization.
 
-
-
-## Check Out My Work
-
-Explore my Power BI profile and visualizations on Power BI Service:
-
-[![Power BI](https://img.shields.io/badge/Power%20BI-viraj.bhutada-yellow?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/groups/me/lineage?experience=power-bi)
-
 ---
 
 # Contributing, Usage, and Issue Reporting
 
 Thank you for considering contributing to this repository and exploring the Power BI dashboards. Your involvement is highly valued, and your contributions help enhance the overall quality of this collection.
-
-
-## Contributing
-
-- **Contributions Welcome:** We welcome your contributions to enhance existing dashboards or propose new ideas. Please refer to the [Contribution Guidelines](CONTRIBUTING.md) for seamless collaboration.
 
 ---
 
@@ -57,5 +43,5 @@ I appreciate your interest in this Power BI Dashboards project and look forward 
 
 ---
 
-## Linkedin: [Viraj N.Bhutada](https://www.linkedin.com/in/virajnbhutada24/)
+## Linkedin: [Ahmad Furqan](https://www.linkedin.com/in/ahmad-furqan-836468197/)
 
