@@ -31,7 +31,7 @@ Thank you for considering contributing to this repository and exploring the Powe
 
 ## License
 
-By contributing to this project, you agree that your contributions will be licensed under the [MIT License](LICENSE). Your cooperation is vital in ensuring a collaborative and open environment.
+By contributing to this project, you agree that your contributions will be licensed under the [MIT License]([LICENSE](https://github.com/ahmadfurqan7/PowerBI-Project/blob/main/LICENSE.txt). Your cooperation is vital in ensuring a collaborative and open environment.
 
 I appreciate your interest in this Power BI Dashboards project and look forward to creating impactful visualizations together!
 
