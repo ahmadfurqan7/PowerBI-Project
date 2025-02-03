@@ -1,6 +1,6 @@
 # PowerBI Decision Analytics Hub
 
-[![License](https://img.shields.io/badge/License-MIT-green)](https://github.com/virajbhutada/PowerBI-Dashboards/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-green)](https://github.com/ahmadfurqan7/PowerBI-Project/blob/main/LICENSE.txt)
 
 Step into the dynamic world of data-driven decision-making at the PowerBI Analytics Hub. This repository serves as a centralized destination, housing a diverse collection of meticulously crafted PowerBI dashboards. Tailored for strategic decision-makers, our visualizations offer unique perspectives and insights across various datasets. Elevate your analytics journey with our comprehensive suite, delivering actionable insights and driving excellence throughout your organization.
 
@@ -25,13 +25,7 @@ Thank you for considering contributing to this repository and exploring the Powe
 
 ## Usage Permissions
 
-- **Open for Exploration:** The dashboards in this repository are open for exploration and utilization. Please review the [MIT License]([LICENSE](https://github.com/virajbhutada/PowerBI-Decision-Analytics/blob/main/LICENSE)) for details on permissions.
-
----
-
-## Report Issues
-
-If you encounter any issues or have suggestions, we encourage you to open an issue on the [Issue Tracker](https://github.com/virajbhutada/PowerBI_Decision-Analytics/issues). Your feedback is invaluable and contributes to the ongoing improvement of this project.
+- **Open for Exploration:** The dashboards in this repository are open for exploration and utilization. Please review the [MIT License]([LICENSE](https://github.com/ahmadfurqan7/PowerBI-Project/blob/main/LICENSE.txt) for details on permissions.
 
 ---
 
