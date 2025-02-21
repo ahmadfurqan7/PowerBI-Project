@@ -23,12 +23,6 @@ Thank you for considering contributing to this repository and exploring the Powe
 
 ---
 
-## Usage Permissions
-
-- **Open for Exploration:** The dashboards in this repository are open for exploration and utilization. Please review the [MIT License]([LICENSE](https://github.com/ahmadfurqan7/PowerBI-Project/blob/main/LICENSE.txt) for details on permissions.
-
----
-
 ## License
 
 By contributing to this project, you agree that your contributions will be licensed under the [MIT License]([LICENSE](https://github.com/ahmadfurqan7/PowerBI-Project/blob/main/LICENSE.txt). Your cooperation is vital in ensuring a collaborative and open environment.
